@@ -14,3 +14,5 @@ adicionandoO = document.getElementById("linha-1_coluna-2");
 adicionandoO.innerText="O";
 
 document.getElementById("linha-1_coluna-1").innerText = "X"
+
+document.getElementById("linha-1_coluna-3").innerText = "O";
