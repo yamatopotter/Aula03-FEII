@@ -5,6 +5,6 @@ var adicionandoO = document.getElementById("linha-3_coluna-3");
 
 adicionandoO.innerText="O";
 
-var adicionandoO = document.getElementById("linha-3_coluna-2");
+var adicionandoX = document.getElementById("linha-3_coluna-2");
 
 adicionandoO.innerText="X";
