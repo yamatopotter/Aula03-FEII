@@ -1,6 +1,6 @@
 var adicionandoX = document.getElementById("linha-2_coluna-2");
+
 adicionandoX.innerText = "X";
-console.log(adicionandoX);
 
 var adicionandoO = document.getElementById("linha-3_coluna-3");
 
@@ -18,9 +18,10 @@ document.getElementById("linha-1_coluna-1").innerText = "X"
 
 document.getElementById("linha-1_coluna-3").innerText = "O";
 
-
 adicionandoX = document.getElementById("linha-2_coluna-3");
 
 adicionandoX.innerText="X";
 
 document.getElementById("linha-2_coluna-1").innerText = "O";
+
+document.getElementById("linha-3_coluna-1").innerText = "X";
