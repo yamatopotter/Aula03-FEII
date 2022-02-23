@@ -12,3 +12,5 @@ adicionandoX.innerText="X";
 adicionandoO = document.getElementById("linha-1_coluna-2");
 
 adicionandoO.innerText="O";
+
+document.getElementById("linha-1_coluna-1").innerText = "X"
