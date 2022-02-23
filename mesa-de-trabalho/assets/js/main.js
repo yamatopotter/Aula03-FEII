@@ -8,3 +8,7 @@ adicionandoO.innerText="O";
 adicionandoX = document.getElementById("linha-3_coluna-2");
 
 adicionandoX.innerText="X";
+
+adicionandoO = document.getElementById("linha-1_coluna-2");
+
+adicionandoO.innerText="O";
