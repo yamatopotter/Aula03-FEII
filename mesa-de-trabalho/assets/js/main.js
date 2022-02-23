@@ -7,4 +7,4 @@ adicionandoO.innerText="O";
 
 adicionandoX = document.getElementById("linha-3_coluna-2");
 
-adicionandoO.innerText="X";
+adicionandoX.innerText="X";
